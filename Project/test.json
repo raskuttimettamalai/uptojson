@@ -1,0 +1,22 @@
+[
+    {
+        "Id":1,
+        "Name":"Smart Office and home Automation system",
+        "description":"Its a new technology and allso a any eletronic devices connected to the internet</h5>"
+    },
+    {
+        "Id":2,
+        "Name":"Hartware module",
+        "description":"There are lot of hartware used such as a home thing<h5>"
+    },
+    {
+        "Id":3,
+        "Name":"Software module",
+        "description":"Its easy to implement and all the data access from the wifi devices<h5>"
+    },
+    {
+        "Id":4,
+        "Name":"cloud storage",
+        "description":"finally all the data items stored in cloud<h5>"
+    }
+]

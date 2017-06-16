@@ -1,0 +1,23 @@
+[
+    {
+        "artistId":1,
+        "artistName":"Smart Office and home Automation system",
+        "description":"Its a new technology and allso a any eletronic devices connected to the internet</h5>"
+    },
+    {
+        "artistId":2,
+        "artistName":"Hartware module",
+        "description":"There are lot of hartware used such as a home thing<h5>"
+    },
+    {
+        "artistId":3,
+        "artistName":"Software module",
+        "description":"Its easy to implement and all the data access from the wifi devices<h5>"
+    },
+    {
+        "artistId":4,
+        "artistName":"cloud storage",
+        "description":"finally all the data items stored in cloud<h5>"
+    }
+    
+]
